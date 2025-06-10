@@ -1,0 +1,56 @@
+https://www.llamaindex.ai/
+
+discriminative model(superviesed)> prediction 
+generative model(unsuperviesed learning)>>gen new data 
+ 
+LLM == core component of genai 
+LLM generic 
+SLM ==specialized
+
+ transfomrer architrure
+ 
+ prompt design or engienrring ,types 
+
+ transfomrer
+ ========
+ https://jalammar.github.io/illustrated-transformer/
+
+ https://youtu.be/XfpMkf4rD6E?si=8To67HB-DFfa6QLA
+
+ https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+ https://poloclub.github.io/transformer-explainer/
+
+ https://bbycroft.net/llm
+ https://www.comet.com/site/blog/explainable-ai-for-transformers/
+
+ https://www.youtube.com/watch?v=wjZofJX0v4M&t=183s
+ https://www.youtube.com/watch?v=eMlx5fFNoYc
+
+
+ orechestration framework>>langchain,llmaindex,openai 
+
+ vector databases>chromadb,pinecone etc 
+
+ UI >>flask ,streamlit 
+
+ LLMOPS integtration >>langschimit etc ,bedrock 
+
+
+ selecting the right foundation LLMS 
+ ===============
+ https://huggingface.co/
+ https://www.linkedin.com/pulse/choosing-optimal-foundational-model-your-generative-ai-dharmashekar-j2gue/
+ >accuracy/precision
+ > cost 
+ >latency 
+ > privacy
+
+
+ tool stack for genai apps
+ =========
+ https://www.langchain.com/
+
+
+ RAG
+ =========
